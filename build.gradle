@@ -28,7 +28,3 @@ task clean(type: Delete) {
     delete rootProject.buildDir
 }
 
-allprojects {
-    group = 'com.jay.lib'
-    version = '1.0.0'
-}
