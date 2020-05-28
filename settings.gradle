@@ -1,0 +1,3 @@
+rootProject.name='SourceDependenciesDemo'
+include ':app'
+include ':baselibrary'
